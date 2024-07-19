@@ -1,0 +1,39 @@
+# Logs
+frontend/logs
+frontend/*.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/lerna-debug.log*
+
+# Node.js dependencies
+node_modules
+frontend/node_modules
+
+# Environment variables
+frontend/.env
+
+# Build output
+frontend/dist
+backend/build
+
+frontend/dist
+frontend/dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+frontend/.vscode/*
+!.vscode/extensions.json
+.idea
+/backend/.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Gradle files
+backend/.gradle

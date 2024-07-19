@@ -1,0 +1,10 @@
+start_station,end_station,distance_km,travel_time
+Tokyo_Sobu_Rapid,Shin-Nihombashi_Sobu_Rapid,1.2,1.5
+Shin-Nihombashi_Sobu_Rapid,Bakurocho_Sobu_Rapid,1.1,1.4
+Bakurocho_Sobu_Rapid,Kinshicho_Sobu_Rapid,2.5,3
+Kinshicho_Sobu_Rapid,Shin-Koiwa_Sobu_Rapid,5.2,6.3
+Shin-Koiwa_Sobu_Rapid,Ichikawa_Sobu_Rapid,5.4,6.6
+Ichikawa_Sobu_Rapid,Funabashi_Sobu_Rapid,7.8,9.5
+Funabashi_Sobu_Rapid,Tsudanuma_Sobu_Rapid,3.5,4.5
+Tsudanuma_Sobu_Rapid,Inage_Sobu_Rapid,9.2,11
+Inage_Sobu_Rapid,Chiba_Sobu_Rapid,3.3,4.2

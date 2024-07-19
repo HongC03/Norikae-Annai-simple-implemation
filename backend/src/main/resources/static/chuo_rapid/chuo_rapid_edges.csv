@@ -1,0 +1,15 @@
+start_station,end_station,distance_km
+Tokyo_Chuo_Rapid,Kanda_Chuo_Rapid,1.3
+Kanda_Chuo_Rapid,Ochanomizu_Chuo_Rapid,1.3
+Ochanomizu_Chuo_Rapid,Yotsuya_Chuo_Rapid,4.0
+Yotsuya_Chuo_Rapid,Shinjuku_Chuo_Rapid,3.7
+Shinjuku_Chuo_Rapid,Nakano_Chuo_Rapid,4.4
+Nakano_Chuo_Rapid,Kōenji_Chuo_Rapid,1.4
+Kōenji_Chuo_Rapid,Asagaya_Chuo_Rapid,1.2
+Asagaya_Chuo_Rapid,Ogikubo_Chuo_Rapid,1.4
+Ogikubo_Chuo_Rapid,Nishi-Ogikubo_Chuo_Rapid,1.9
+Nishi-Ogikubo_Chuo_Rapid,Kichijōji_Chuo_Rapid,1.9
+Kichijōji_Chuo_Rapid,Mitaka_Chuo_Rapid,1.6
+Tokyo_Chuo_Rapid,Tokyo_Yamanote,0.0
+Kanda_Chuo_Rapid,Kanda_Yamanote,0.0
+Shinjuku_Chuo_Rapid,Shinjuku_Yamanote,0.0
